@@ -1,4 +1,5 @@
 {
+    "name": "inboundjunction/bvnk-php-sdk",
     "description": "The BVNK API is designed to facilitate seamless and secure transactions including payments, channels, and digital wallet transactions.",
     "keywords": [
         "openapitools",
